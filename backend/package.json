@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.4",
+    "bluetooth-hci-socket": "^0.5.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0",
+    "miflora": "^1.0.3",
+    "moment": "^2.24.0",
+    "sqlite": "^3.0.3"
+  }
+}
